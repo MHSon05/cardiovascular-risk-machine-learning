@@ -13,12 +13,9 @@ cardiovascular-risk-ml-ptit/
 ├── requirements.txt                     # Danh sách thư viện và phiên bản ghim ổn định
 │
 ├── data/
-│   └── raw/
-│       ├── framingham.csv               # Tập A: 4.240 bệnh nhân, Mỹ (Tỷ lệ bệnh 15.19%)
-│       └── cardio_train.csv             # Tập B: 70.000 mẫu (68.619 sạch), Đông Âu (Tỷ lệ bệnh 49.47%)
-│
-└── figures/                             # 11 biểu đồ xuất bản độ phân giải cao (200 DPI)
-
+    └── raw/
+        ├── framingham.csv               # Tập A: 4.240 bệnh nhân, Mỹ (Tỷ lệ bệnh 15.19%)
+        └── cardio_train.csv             # Tập B: 70.000 mẫu (68.619 sạch), Đông Âu (Tỷ lệ bệnh 49.47%)
 ```
 
 ---
