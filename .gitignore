@@ -17,6 +17,10 @@ desktop.ini
 .vscode/
 .idea/
 
+# agents
+.agents/
+skills-lock.json
+
 # user
 slide/
 figures/
